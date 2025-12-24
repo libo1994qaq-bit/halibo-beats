@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Bach",
+    "artist": "HALIBO",
+    "noter": "libo",
+    "folder": "Bach",
+    "jacket": "Bach.png",
+    "preview": "Bachshort.wav",
+    "beatmap_4k_1": {
+      "filename": "4k_3.bme",
+      "playlevel": 1
+    }
+    },
+    {
+    "title": "Bach X Lachenmann",
+    "artist": "HALIBO",
+    "noter": "libo",
+    "folder": "Bach-Lachenmann",
+    "jacket": "Bach-Lachemann.png",
+    "preview": "Bach X Lachenmannshort.wav",
+    "beatmap_4k_1": {
+      "filename": "4k_3.bme",
+      "playlevel": 1
+    }
+    },
+    {
+    "title": "Bach X Riley X Lachenmann",
+    "artist": "HALIBO",
+    "noter": "libo",
+    "folder": "Bach-Riley-Lachenmann",
+    "jacket": "Bach-Riley-Lachenmann.png",
+    "preview": "Bach X Riley X Lachenmannshort.wav",
+    "beatmap_4k_1": {
+      "filename": "4k_3.bme",
+      "playlevel": 1
+    }
+    },
+    {
+    "title": "Bach X Riley X Lachenmann X Schoenberg",
+    "artist": "HALIBO",
+    "noter": "libo",
+    "folder": "Bach-Riley-Lachenmann-Schoenberg",
+    "jacket": "Bach-Reilay-Berg-Lachamann.png",
+    "preview": "Bach X Riley X Lachenmann X Schoenbergshort.wav",
+    "beatmap_4k_1": {
+      "filename": "4k_3.bme",
+      "playlevel": 1
+    }
+    },
+    {
+    "title": "Lachenmann",
+    "artist": "HALIBO",
+    "noter": "libo",
+    "folder": "Lachenmann",
+    "jacket": "Lachenmann.png",
+    "preview": "Lachenmannshort.wav",
+    "beatmap_4k_1": {
+      "filename": "4k_3.bme",
+      "playlevel": 1
+    }
+    },
+    {
+    "title": "Lachenmann X Riley",
+    "artist": "HALIBO",
+    "noter": "libo",
+    "folder": "Lachenmann-Riley",
+    "jacket": "Lachamann-Reily.png",
+    "preview": "Lachenmann X Rileyshort.wav",
+    "beatmap_4k_1": {
+      "filename": "4k_3.bme",
+      "playlevel": 1
+    }
+    },
+    {
+    "title": "Riley",
+    "artist": "HALIBO",
+    "noter": "libo",
+    "folder": "Riley",
+    "jacket": "Riley.png",
+    "preview": "Rileyshort.wav",
+    "beatmap_4k_1": {
+      "filename": "4k_3.bme",
+      "playlevel": 1
+    }
+    },
+    {
+    "title": "Schoenberg",
+    "artist": "HALIBO",
+    "noter": "libo",
+    "folder": "Schoenberg",
+    "jacket": "Schoenberg.png",
+    "preview": "Schoenbergshort.wav",
+    "beatmap_4k_1": {
+      "filename": "4k_3.bme",
+      "playlevel": 1
+    }
+  }
+]
